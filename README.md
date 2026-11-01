@@ -1,10 +1,3 @@
----
-title: deep_research
-app_file: app.py
-sdk: gradio
-sdk_version: 6.14.0
----
-
 # Deep Research
 
 An AI-powered research assistant that turns a question into a structured, multi-search investigation and a detailed Markdown report. The finished report is displayed in the Gradio UI and is also delivered through the configured channel: email or a Pushover push notification to your mobile device.
@@ -166,6 +159,5 @@ This is a portfolio project demonstrating an agent-based research workflow. Befo
 
 ## Author
 
-Built as a project exploring agentic AI, async Python, and research automation.
+Built as a project exploring agentic AI, multi-agent workflow, async Python, and research automation.
 
-> Personalize this section before publishing: add your name, GitHub profile, LinkedIn profile, and contact details.
